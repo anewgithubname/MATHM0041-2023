@@ -7,7 +7,6 @@ An introduction to computational statistical learning and decision making (super
 
 Find more on 
 [Syllabus](#Syllabus), 
-[Reading List](#Readings), 
 [Support](#Support), 
 [Assessment Plan](#Assessment-Plan).
 
@@ -37,6 +36,6 @@ Post your questions on Blackboard.
 
 ----
 
-[Blackboard Forum](https://www.ole.bris.ac.uk/webapps/discussionboard/do/forum?action=list_threads&course_id=_251422_1&nav=discussion_board_entry&conf_id=_456815_1&forum_id=_298144_1)
+## [Blackboard Forum](https://www.ole.bris.ac.uk/webapps/discussionboard/do/forum?action=list_threads&course_id=_255706_1&nav=discussion_board_entry&conf_id=_526017_1&forum_id=_329747_1)
 
 ## [Assessment Plan](SM1_assessment.md)
