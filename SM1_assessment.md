@@ -1,22 +1,18 @@
 # Statistical Methods 1
 
-The due date of the final project is Monday, 16th January 2023 **the same as Statistical Computing (SC) 1**. However, you are encouraged to discuss the final project ideas early with us (Myself and Anthony). We expect you to essentially finish all your assessments before Christmas holidays. 
-
+The due date of the final project is Monday, 15th January 2023 **the same as Statistical Computing (SC) 1**. However, you are encouraged to discuss the final project ideas early with us (Myself and Anthony). We expect you to essentially finish all your assessments before Christmas holidays. 
 
 See below for due dates of other assignments. 
-
 
 As students preparing for PhD research in Computational Statistics and Data Science, you are expected to spend a considerable amount of your time learning things that are **not** directly assessed.
 Examples of portfolio/report are available upon request. 
 
-
 ## 1 Personal portfolio (30%)
-
 
 
 For SM1, there are six topics. Due dates of the portfolios are in the brackets. 
 
-- Basics of Statistical Learning (due Fri, week 3)
+- Basics of Statistical Learning (due Wed, week 3)
 
 - Probability Theory 
 
@@ -28,12 +24,20 @@ For SM1, there are six topics. Due dates of the portfolios are in the brackets.
 
 - Advanced Topics in Machine Learning (due Mon, week 11)
 
-For each topic, there should be a document submission (except the Probability Theory) typeset using Latex, discussing mathematical contents covered in the lectures. Each submission should be no more than 4 A4-pages using 11 point fonts, standard margin. 
+For each topic, there should be a document submission (except the Probability Theory) typeset using Latex, discussing mathematical contents covered in the lectures and answering homework questions and conducting literature review. Each submission should be no more than 4 A4-pages using 11 point fonts, standard margin. 
 
+The portfolio should **not** merely replicate all lecture slides or the textbook. Instead, it should consist of:
+
+1. A succinct summary of the lectures.
+2. Answers to all homework questions (proofs should be included in the appendix, which will not count toward the four-page limit).
+3. A review of state-of-the-art literature on the topics chosen by the lecturer.
+
+A portfolio containing items 1, 2, and 3 will be awarded a 100% score.
+A portfolio containing only items 1 and 2 will receive a 70% score.
+A portfolio that contains only a summary of the lectures will receive a 50% score.
 
 
 ## 2 Assessed coursework (40%)
-
 
 
 On week 5 **and** week 9, two coursework will be given. These consist 
@@ -46,10 +50,7 @@ On week 5 **and** week 9, two coursework will be given. These consist
 Each of the two submitted pieces of work will be worth 20%. Points will be awarded for correct answers to questions. 
 
 
-
-
 ## 3 Group project (30%)
-
 
 
 There will be a joint project for Statistical Computing 1 and Statistical Methods 1. Below are general guidelines: 
@@ -93,8 +94,6 @@ The report should give sufficient technical details on
 
 
  **Criteria for assessment** will include
-
-
 
 - Format and Style: does the report have a writing style of an academic paper. 
 
