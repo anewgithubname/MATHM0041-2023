@@ -25,9 +25,10 @@ Find more on
 
 ### Week 1
 1. Decision Making: An Introduction
-
    - [Slides](lecs/intro.pdf)
 
+2. Overfitting and Curse of Dimensionality
+   - [Slides](lecs/lec2.pdf)
 ----
 ## Support
 Post your questions on Blackboard.
