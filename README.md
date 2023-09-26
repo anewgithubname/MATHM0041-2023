@@ -28,7 +28,7 @@ Find more on
    - [Slides](lecs/intro.pdf)
 
 2. Overfitting and Curse of Dimensionality
-   - [Slides](lecs/lec2.pdf)
+   - [Slides](lecs/of_cod2.pdf)
 ----
 ## Support
 Post your questions on Blackboard.
