@@ -26,9 +26,15 @@ Find more on
 ### Week 1
 1. Decision Making: An Introduction
    - [Slides](lecs/intro.pdf)
-
 2. Overfitting and Curse of Dimensionality
    - [Slides](lecs/of_cod2.pdf)
+
+### Week 2
+3. Regression: A Probabilistic View
+   - [Slides](lecs/prob_reg.pdf)
+4. Risks and Bayes Optimal Prediction
+   - [Slides](lecs/BayesEstimator.pdf)
+
 ----
 ## Support
 Post your questions on Blackboard.
