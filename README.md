@@ -38,6 +38,10 @@ Find more on
    - [Decision Boundary + Completing the Square](lecs/decisionboundary_completesqurare.pdf)
    - [Risk Minimization, square vs. absolute value](lecs/proofs.png)
 
+### Week 3
+5. Gaussian Identities
+   - [Slides](lecs/gaussian%20identities.pdf)
+
 ----
 ## Support
 Post your questions on Blackboard.
