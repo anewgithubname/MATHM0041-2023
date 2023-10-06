@@ -36,6 +36,7 @@ Find more on
 4. Risks and Bayes Optimal Prediction
    - [Slides](lecs/BayesEstimator.pdf)
    - [Decision Boundary + Completing the Square](lecs/decisionboundary_completesqurare.pdf)
+   - [Risk Minimization, square vs. absolute value](lecs/proofs.png)
 
 ----
 ## Support
