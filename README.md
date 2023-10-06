@@ -35,6 +35,7 @@ Find more on
    - [Predictive Distribution Proof](lecs/Proof3.pdf)
 4. Risks and Bayes Optimal Prediction
    - [Slides](lecs/BayesEstimator.pdf)
+   - [Decision Boundary + Completing the Square](lecs/decisionboundary_completesqurare.pdf)
 
 ----
 ## Support
