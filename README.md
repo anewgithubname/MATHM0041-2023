@@ -32,6 +32,7 @@ Find more on
 ### Week 2
 3. Regression: A Probabilistic View
    - [Slides](lecs/prob_reg.pdf)
+   - [Predictive Distribution Proof](lecs/Proof3.pdf)
 4. Risks and Bayes Optimal Prediction
    - [Slides](lecs/BayesEstimator.pdf)
 
