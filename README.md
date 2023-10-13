@@ -41,7 +41,7 @@ Find more on
 ### Week 3
 5. Gaussian Identities
    - [Slides](lecs/gaussian%20identities.pdf)
-
+   - [Computing Lab](lecs/cl1.pdf)
 ----
 ## Support
 Post your questions on Blackboard.
