@@ -45,8 +45,11 @@ Find more on
    - [95% Confidence Region](lecs/nightyfive.pdf)
 
 ### Week 4
-6. Bias and Variance
+6. Bias and Varia
    - [Slides](lecs/bv_decomposition.pdf)
+
+7. Feature Transform and Kernel Methods
+   - [Slides](lecs/ft_km.pdf) 
 ----
 ## Support
 Post your questions on Blackboard.
