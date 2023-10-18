@@ -47,6 +47,7 @@ Find more on
 ### Week 4
 6. Bias and Variance
    - [Slides](lecs/bv_decomposition.pdf)
+   - [Additional Questions](lecs/two_additional_questions.pdf)
 
 7. Feature Transform and Kernel Methods
    - [Slides](lecs/ft_km.pdf) 
