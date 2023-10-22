@@ -52,6 +52,11 @@ Find more on
 
 7. Feature Transform and Kernel Methods
    - [Slides](lecs/ft_km.pdf) 
+
+### Week 5
+8. Probabilistic Model Selection
+   - [Slides](lecs/mosel.pdf)
+
 ----
 ## Support
 Post your questions on Blackboard.
