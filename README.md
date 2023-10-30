@@ -58,6 +58,10 @@ Find more on
 8. Probabilistic Model Selection
    - [Slides](lecs/mosel.pdf)
 
+### Week 6
+9. Linear Classifiers
+   - [Slides](lecs/linear%20classifiers.pdf)
+
 ----
 ## Support
 Post your questions on Blackboard.
