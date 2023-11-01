@@ -62,6 +62,9 @@ Find more on
 9. Linear Classifiers
    - [Slides](lecs/linear%20classifiers.pdf)
 
+10. Discriminative Classifiers
+   - [Slides](lecs/disc.pdf)
+
 ----
 ## Support
 Post your questions on Blackboard.
