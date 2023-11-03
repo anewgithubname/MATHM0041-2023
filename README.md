@@ -66,6 +66,10 @@ Find more on
    - [Slides](lecs/disc.pdf)
    - [Computing Lab](lecs/perceptron.pdf), [Video](lecs/perceptron.mp4), [MATLAB Solution](lecs/demo_perceptron.m)
 
+### Week 7
+11. Support Vector Machine
+   - [Slides](lecs/svm.pdf)
+
 ----
 ## Support
 Post your questions on Blackboard.
