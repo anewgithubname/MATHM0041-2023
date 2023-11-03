@@ -64,6 +64,7 @@ Find more on
 
 10. Discriminative Classifiers
    - [Slides](lecs/disc.pdf)
+   - [Computing Lab](lecs/perceptron.pdf), [Video](lecs/perceptron.mp4)
 
 ----
 ## Support
