@@ -72,7 +72,7 @@ Find more on
 
 12. Lagrangian Dual
    - [Note](lecs/dual.pdf)
-   - [Powerpoint, download to see cool animation](lecs/CL_SVM.pptx)
+   - [Powerpoint for Computing lab, download to see cool animation](lecs/CL_SVM.pptx)
 
 
 ----
