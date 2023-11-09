@@ -70,6 +70,10 @@ Find more on
 11. Support Vector Machine
    - [Slides](lecs/svm.pdf)
 
+12. Lagrangian Dual
+   - [Note](lecs/dual.pdf)
+
+
 ----
 ## Support
 Post your questions on Blackboard.
