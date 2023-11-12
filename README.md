@@ -63,17 +63,20 @@ Find more on
    - [Slides](lecs/linear%20classifiers.pdf)
 
 10. Discriminative Classifiers
-   - [Slides](lecs/disc.pdf)
-   - [Computing Lab](lecs/perceptron.pdf), [Video](lecs/perceptron.mp4), [MATLAB Solution](lecs/demo_perceptron.m)
+    - [Slides](lecs/disc.pdf)
+    - [Computing Lab](lecs/perceptron.pdf), [Video](lecs/perceptron.mp4), [MATLAB Solution](lecs/demo_perceptron.m)
 
 ### Week 7
 11. Support Vector Machine
-   - [Slides](lecs/svm.pdf)
+    - [Slides](lecs/svm.pdf)
 
 12. Lagrangian Dual
-   - [Note](lecs/dual.pdf)
-   - [Powerpoint for Computing lab, download to see cool animation](lecs/CL_SVM.pptx)
+    - [Note](lecs/dual.pdf)
+    - [Powerpoint for Computing lab, download to see cool animation](lecs/CL_SVM.pptx)
 
+### Week 8
+13. Probabilistic Graphical Models
+    - [Slides](lecs/pgm.pdf)
 
 ----
 ## Support
