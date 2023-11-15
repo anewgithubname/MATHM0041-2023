@@ -79,6 +79,14 @@ Find more on
     - [Slides](lecs/pgm.pdf)
     - [Computing Lab](lecs/PGMcl.pdf), [Dataset](lecs/senate109.zip)
 
+
+### Week 9
+14. Generative Modeling by Estimating Gradients of the Data Distribution
+    - [Paper](https://arxiv.org/abs/1907.05600)
+
+15. Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm
+    - [Paper](https://arxiv.org/abs/1608.04471)
+
 ----
 ## Support
 Post your questions on Blackboard.
