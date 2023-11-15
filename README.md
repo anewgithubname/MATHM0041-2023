@@ -80,7 +80,7 @@ Find more on
     - [Computing Lab](lecs/PGMcl.pdf), [Dataset](lecs/senate109.zip)
 
 
-### Week 9
+### Week 9 (Read Before the Lecture!)
 14. Generative Modeling by Estimating Gradients of the Data Distribution
     - [Paper](https://arxiv.org/abs/1907.05600)
 
